@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Términos y Condiciones — MrMind</title>
+<style>
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; max-width: 800px; margin: 0 auto; padding: 40px 20px; color: #1a1a1a; line-height: 1.7; }
+  h1 { font-size: 28px; font-weight: 700; margin-bottom: 8px; }
+  h2 { font-size: 18px; font-weight: 600; margin-top: 36px; margin-bottom: 12px; border-left: 4px solid #7C3AED; padding-left: 12px; }
+  p { margin-bottom: 16px; }
+  ul { margin-bottom: 16px; padding-left: 24px; }
+  li { margin-bottom: 8px; }
+  .date { color: #666; font-size: 14px; margin-bottom: 32px; }
+  .contact { background: #f5f3ff; border-radius: 8px; padding: 20px; margin-top: 32px; }
+  a { color: #7C3AED; }
+  @media (prefers-color-scheme: dark) {
+    body { background: #0f0f0f; color: #e8e8e8; }
+    .contact { background: #1a1a2e; }
+  }
+</style>
+</head>
+<body>
+
+<h1>Términos y Condiciones</h1>
+<p class="date">Última actualización: 6 de junio de 2026</p>
+
+<p>Bienvenido a <strong>MrMind</strong>. Al descargar, instalar o usar nuestra aplicación, aceptas estar sujeto a estos Términos y Condiciones. Si no estás de acuerdo con alguno de estos términos, no uses la App.</p>
+
+<h2>1. Aceptación de los términos</h2>
+<p>Estos Términos y Condiciones constituyen un acuerdo legal entre tú ("usuario") y Pablo Llopis Pardo ("nosotros", "MrMind"). Al usar la App, confirmas que tienes al menos 13 años de edad y que aceptas estos términos en su totalidad.</p>
+
+<h2>2. Descripción del servicio</h2>
+<p>MrMind es una aplicación móvil de trivia y conocimiento general que permite a los usuarios:</p>
+<ul>
+  <li>Responder preguntas de múltiples categorías.</li>
+  <li>Competir en rankings globales y por categoría.</li>
+  <li>Participar en duelos contra otros jugadores.</li>
+  <li>Acumular puntos de experiencia (XP), gemas y subir de rango.</li>
+  <li>Participar en la Liga MrMind con temporadas semanales.</li>
+</ul>
+
+<h2>3. Registro y cuenta de usuario</h2>
+<p>Para usar ciertas funciones de la App debes crear una cuenta. Al registrarte te comprometes a:</p>
+<ul>
+  <li>Proporcionar información veraz y actualizada.</li>
+  <li>Mantener la confidencialidad de tu contraseña.</li>
+  <li>Notificarnos inmediatamente de cualquier uso no autorizado de tu cuenta.</li>
+  <li>No crear cuentas múltiples para obtener ventajas en el juego.</li>
+</ul>
+<p>Nos reservamos el derecho de suspender o eliminar cuentas que violen estos términos.</p>
+
+<h2>4. Conducta del usuario</h2>
+<p>Al usar MrMind te comprometes a no:</p>
+<ul>
+  <li>Usar trampas, bots o cualquier software de automatización.</li>
+  <li>Intentar hackear, modificar o interferir con la App.</li>
+  <li>Acosar, insultar o amenazar a otros usuarios.</li>
+  <li>Publicar contenido ofensivo, ilegal o inapropiado.</li>
+  <li>Intentar manipular los rankings o sistemas de puntuación.</li>
+  <li>Usar la App con fines comerciales sin autorización expresa.</li>
+</ul>
+
+<h2>5. Compras dentro de la App</h2>
+<p>MrMind ofrece compras opcionales dentro de la App, incluyendo:</p>
+<ul>
+  <li>Paquetes de gemas (moneda virtual).</li>
+  <li>Suscripción Premium (sin anuncios).</li>
+  <li>Categorías premium de contenido.</li>
+</ul>
+<p>Todas las compras son procesadas por Google Play Store o Apple App Store según tu dispositivo. Las gemas y elementos virtuales no tienen valor monetario real y no son reembolsables. Las suscripciones se renuevan automáticamente a menos que las canceles antes del período de renovación.</p>
+
+<h2>6. Moneda virtual y elementos del juego</h2>
+<p>Las gemas, XP, rangos, badges y demás elementos virtuales de MrMind:</p>
+<ul>
+  <li>No tienen valor monetario real.</li>
+  <li>No son transferibles entre cuentas.</li>
+  <li>No son reembolsables.</li>
+  <li>Pueden ser modificados, eliminados o rebalanceados por nosotros en cualquier momento.</li>
+  <li>Se pierden si se elimina la cuenta.</li>
+</ul>
+
+<h2>7. Publicidad</h2>
+<p>La versión gratuita de MrMind incluye anuncios de terceros (Google AdMob). Los usuarios con suscripción Premium no verán anuncios. Nos reservamos el derecho de mostrar anuncios en cualquier parte de la App en la versión gratuita.</p>
+
+<h2>8. Propiedad intelectual</h2>
+<p>Todo el contenido de MrMind, incluyendo pero no limitado a textos, gráficos, logos, iconos, imágenes, clips de audio, descargas digitales y software, es propiedad de Pablo Llopis Pardo o sus proveedores de contenido y está protegido por las leyes de propiedad intelectual aplicables.</p>
+<p>Se te otorga una licencia limitada, no exclusiva y no transferible para usar la App únicamente para tu uso personal y no comercial.</p>
+
+<h2>9. Contenido generado por el usuario</h2>
+<p>Al usar funciones sociales de MrMind (nombre de usuario, participación en rankings), nos otorgas una licencia mundial, no exclusiva y libre de regalías para usar, reproducir y mostrar dicho contenido dentro de la App.</p>
+
+<h2>10. Disponibilidad del servicio</h2>
+<p>Nos esforzamos por mantener la App disponible 24/7, pero no garantizamos disponibilidad ininterrumpida. Podemos suspender el servicio temporalmente por mantenimiento, actualizaciones o causas de fuerza mayor sin previo aviso.</p>
+<p>Nos reservamos el derecho de modificar, suspender o discontinuar cualquier aspecto de la App en cualquier momento.</p>
+
+<h2>11. Limitación de responsabilidad</h2>
+<p>En la máxima medida permitida por la ley aplicable, MrMind no será responsable por:</p>
+<ul>
+  <li>Daños indirectos, incidentales, especiales o consecuentes.</li>
+  <li>Pérdida de datos, gemas u otros elementos virtuales.</li>
+  <li>Interrupciones del servicio.</li>
+  <li>Acciones de terceros dentro o fuera de la App.</li>
+</ul>
+
+<h2>12. Modificaciones de los términos</h2>
+<p>Podemos actualizar estos Términos y Condiciones en cualquier momento. Te notificaremos cambios significativos mediante una notificación en la App o por email. El uso continuado de la App tras los cambios constituye tu aceptación de los nuevos términos.</p>
+
+<h2>13. Terminación</h2>
+<p>Podemos suspender o terminar tu acceso a la App inmediatamente, sin previo aviso, si violas estos términos. Puedes eliminar tu cuenta en cualquier momento desde la pantalla de Ajustes de la App.</p>
+
+<h2>14. Legislación aplicable</h2>
+<p>Estos términos se rigen por las leyes de México. Cualquier disputa será resuelta en los tribunales competentes de México.</p>
+
+<h2>15. Contacto</h2>
+<div class="contact">
+  <p>Si tienes preguntas sobre estos Términos y Condiciones:</p>
+  <ul>
+    <li><strong>Email:</strong> <a href="mailto:supp.mrmindapp@hotmail.com">supp.mrmindapp@hotmail.com</a></li>
+    <li><strong>Responsable:</strong> Pablo Llopis Pardo</li>
+    <li><strong>App:</strong> MrMind</li>
+  </ul>
+</div>
+
+</body>
+</html>
